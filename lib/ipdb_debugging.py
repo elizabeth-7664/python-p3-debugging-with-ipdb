@@ -1,7 +1,2 @@
-#!/usr/bin/env python3
-
-import ipdb
-
 def plus_two(num):
-    num + 2
-    return num
+    return num + 2  # Clean and final version with bug fixed
